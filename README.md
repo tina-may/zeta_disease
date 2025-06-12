@@ -1,1 +1,1 @@
-see `disease_model.ipnb` for solution
+see `disease_model.ipynb` for solution
